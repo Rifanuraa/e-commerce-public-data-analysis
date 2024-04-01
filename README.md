@@ -13,8 +13,9 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
-##Mengakses streamlit secara online
+## Mengakses streamlit secara online
 
+Dasboard url : 
 https://e-commerce-public-data-analysis-abz6ult7shkln9l9rmkspw.streamlit.app/
 
 
